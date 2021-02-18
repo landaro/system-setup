@@ -14,6 +14,8 @@ Until then a flat README should suffice.
 
 ## Instructions
 
+This section contains some specific setup instructions.
+
 ### Dotfiles
 
 - **Primary Resource:** [my dotfiles repo](https://github.com/landaro/dotfiles)
