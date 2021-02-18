@@ -3,6 +3,8 @@
 Instructions for bootstrapping and/or recovering my systems.
 Primarily for personal use, but maybe instructive for others ;-).
 
+BLINDTEXT FOR A TEST (REMOVE ME)
+
 ## Overview
 
 System configuration involves many steps: drive and partition layout and setup, encryption, boot loader config, account setup, preferred applications, custom configs (dotfiles) and so on.
